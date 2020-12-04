@@ -1,0 +1,11 @@
+body {
+    background-color: #696969;
+}
+a {
+    text-decoration: none;
+}
+@media only screen and (max-width: 800px) and (orientation: portrait) {
+    #loginpolice{
+        width: 90%;
+   }
+}

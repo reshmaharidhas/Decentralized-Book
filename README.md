@@ -1,4 +1,10 @@
 # Decentralized-Book
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/reshmaharidhas/Decentralized-Book?style=social">
+  <img src="https://img.shields.io/tokei/lines/github/reshmaharidhas/Decentralized-Book">
+ </p>
+ 
  Decentralized Book (DBook)
 
 A DApp to store and manage database of missing people in a country or city using blockchain technology.

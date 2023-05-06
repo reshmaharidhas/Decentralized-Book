@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/reshmaharidhas/Decentralized-Book?style=social">
   <img src="https://img.shields.io/tokei/lines/github/reshmaharidhas/Decentralized-Book">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FDecentralized-Book&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic" />
  </p>
  
  Decentralized Book (DBook)
